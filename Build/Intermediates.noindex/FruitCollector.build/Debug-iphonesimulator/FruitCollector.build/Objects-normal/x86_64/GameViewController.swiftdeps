@@ -1,0 +1,612 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GameViewController"
+provides-nominal:
+- "14FruitCollector18GameViewControllerC"
+provides-member:
+- ["14FruitCollector18GameViewControllerC", ""]
+provides-dynamic-lookup:
+- "prefersStatusBarHidden"
+- "shouldAutorotate"
+- "supportedInterfaceOrientations"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CastingPrecedence"
+- "GameViewController"
+- !private "SKScene"
+- "SKView"
+- !private "StringLiteralType"
+- !private "UIDevice"
+- "UIInterfaceOrientationMask"
+- "UIViewController"
+depends-member:
+- ["SK", ""]
+- !private ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "ignoresSiblingOrder"]
+- !private ["So15CALayerDelegateP", "presentScene"]
+- !private ["So15CALayerDelegateP", "showsFPS"]
+- !private ["So15CALayerDelegateP", "showsNodeCount"]
+- !private ["s7CVarArgP", "SKScene"]
+- !private ["s7CVarArgP", "UIDevice"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "ignoresSiblingOrder"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "presentScene"]
+- !private ["s7CVarArgP", "scaleMode"]
+- !private ["s7CVarArgP", "showsFPS"]
+- !private ["s7CVarArgP", "showsNodeCount"]
+- !private ["s7CVarArgP", "userInterfaceIdiom"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["Sl", ""]
+- ["SL", ""]
+- !private ["s28CustomDebugStringConvertibleP", "SKScene"]
+- !private ["s28CustomDebugStringConvertibleP", "UIDevice"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "ignoresSiblingOrder"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "presentScene"]
+- !private ["s28CustomDebugStringConvertibleP", "scaleMode"]
+- !private ["s28CustomDebugStringConvertibleP", "showsFPS"]
+- !private ["s28CustomDebugStringConvertibleP", "showsNodeCount"]
+- !private ["s28CustomDebugStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "SKScene"]
+- !private ["s23CustomStringConvertibleP", "UIDevice"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "ignoresSiblingOrder"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "presentScene"]
+- !private ["s23CustomStringConvertibleP", "scaleMode"]
+- !private ["s23CustomStringConvertibleP", "showsFPS"]
+- !private ["s23CustomStringConvertibleP", "showsNodeCount"]
+- !private ["s23CustomStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["SQ", "=="]
+- !private ["SQ", "RawValue"]
+- !private ["SQ", "SKScene"]
+- !private ["SQ", "UIDevice"]
+- ["SQ", ""]
+- !private ["SQ", "all"]
+- !private ["SQ", "allButUpsideDown"]
+- !private ["SQ", "aspectFill"]
+- !private ["SQ", "current"]
+- !private ["SQ", "ignoresSiblingOrder"]
+- !private ["SQ", "init"]
+- !private ["SQ", "phone"]
+- !private ["SQ", "presentScene"]
+- !private ["SQ", "scaleMode"]
+- !private ["SQ", "showsFPS"]
+- !private ["SQ", "showsNodeCount"]
+- !private ["SQ", "userInterfaceIdiom"]
+- !private ["SQ", "view"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "all"]
+- !private ["s25ExpressibleByArrayLiteralP", "allButUpsideDown"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- ["s32ExpressibleByStringInterpolationP", ""]
+- ["s26ExpressibleByStringLiteralP", ""]
+- ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["So19GKSceneRootNodeTypeP", "init"]
+- !private ["So19GKSceneRootNodeTypeP", "scaleMode"]
+- ["14FruitCollector18GameViewControllerC", "Bool"]
+- !private ["14FruitCollector18GameViewControllerC", "SKScene"]
+- !private ["14FruitCollector18GameViewControllerC", "SKView"]
+- !private ["14FruitCollector18GameViewControllerC", "UIDevice"]
+- ["14FruitCollector18GameViewControllerC", "UIInterfaceOrientationMask"]
+- ["14FruitCollector18GameViewControllerC", ""]
+- ["14FruitCollector18GameViewControllerC", "deinit"]
+- ["14FruitCollector18GameViewControllerC", "init"]
+- ["14FruitCollector18GameViewControllerC", "prefersStatusBarHidden"]
+- ["14FruitCollector18GameViewControllerC", "shouldAutorotate"]
+- ["14FruitCollector18GameViewControllerC", "supportedInterfaceOrientations"]
+- !private ["14FruitCollector18GameViewControllerC", "view"]
+- ["14FruitCollector18GameViewControllerC", "viewDidLoad"]
+- !private ["SH", "=="]
+- !private ["SH", "RawValue"]
+- !private ["SH", "SKScene"]
+- !private ["SH", "UIDevice"]
+- ["SH", ""]
+- !private ["SH", "aspectFill"]
+- !private ["SH", "current"]
+- !private ["SH", "ignoresSiblingOrder"]
+- !private ["SH", "init"]
+- !private ["SH", "phone"]
+- !private ["SH", "presentScene"]
+- !private ["SH", "scaleMode"]
+- !private ["SH", "showsFPS"]
+- !private ["SH", "showsNodeCount"]
+- !private ["SH", "userInterfaceIdiom"]
+- !private ["SH", "view"]
+- !private ["SH", "viewDidLoad"]
+- ["s25LosslessStringConvertibleP", ""]
+- ["So8NSCodingP", "Bool"]
+- !private ["So8NSCodingP", "SKScene"]
+- !private ["So8NSCodingP", "SKView"]
+- !private ["So8NSCodingP", "UIDevice"]
+- ["So8NSCodingP", "UIInterfaceOrientationMask"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "ignoresSiblingOrder"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "prefersStatusBarHidden"]
+- !private ["So8NSCodingP", "presentScene"]
+- !private ["So8NSCodingP", "scaleMode"]
+- !private ["So8NSCodingP", "sceneWithSize"]
+- ["So8NSCodingP", "shouldAutorotate"]
+- !private ["So8NSCodingP", "showsFPS"]
+- !private ["So8NSCodingP", "showsNodeCount"]
+- ["So8NSCodingP", "supportedInterfaceOrientations"]
+- !private ["So8NSCodingP", "view"]
+- ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", ""]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "scaleMode"]
+- !private ["So9NSCopyingP", "sceneWithSize"]
+- ["So26NSExtensionRequestHandlingP", "Bool"]
+- !private ["So26NSExtensionRequestHandlingP", "SKScene"]
+- !private ["So26NSExtensionRequestHandlingP", "SKView"]
+- !private ["So26NSExtensionRequestHandlingP", "UIDevice"]
+- ["So26NSExtensionRequestHandlingP", "UIInterfaceOrientationMask"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "prefersStatusBarHidden"]
+- ["So26NSExtensionRequestHandlingP", "shouldAutorotate"]
+- ["So26NSExtensionRequestHandlingP", "supportedInterfaceOrientations"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "SKScene"]
+- !private ["So8NSObjectC", "SKView"]
+- !private ["So8NSObjectC", "UIDevice"]
+- ["So8NSObjectC", "UIInterfaceOrientationMask"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "ignoresSiblingOrder"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "node"]
+- !private ["So8NSObjectC", "nodeWithFileNamed"]
+- ["So8NSObjectC", "prefersStatusBarHidden"]
+- !private ["So8NSObjectC", "presentScene"]
+- !private ["So8NSObjectC", "scaleMode"]
+- !private ["So8NSObjectC", "sceneWithSize"]
+- ["So8NSObjectC", "shouldAutorotate"]
+- ["So8NSObjectC", "shouldAutorotateToInterfaceOrientation"]
+- !private ["So8NSObjectC", "showsFPS"]
+- !private ["So8NSObjectC", "showsNodeCount"]
+- ["So8NSObjectC", "supportedInterfaceOrientations"]
+- !private ["So8NSObjectC", "userInterfaceIdiom"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", "Bool"]
+- !private ["So8NSObjectP", "SKScene"]
+- !private ["So8NSObjectP", "SKView"]
+- !private ["So8NSObjectP", "UIDevice"]
+- ["So8NSObjectP", "UIInterfaceOrientationMask"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "current"]
+- !private ["So8NSObjectP", "ignoresSiblingOrder"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "node"]
+- !private ["So8NSObjectP", "nodeWithFileNamed"]
+- ["So8NSObjectP", "prefersStatusBarHidden"]
+- !private ["So8NSObjectP", "presentScene"]
+- !private ["So8NSObjectP", "scaleMode"]
+- !private ["So8NSObjectP", "sceneWithSize"]
+- ["So8NSObjectP", "shouldAutorotate"]
+- ["So8NSObjectP", "shouldAutorotateToInterfaceOrientation"]
+- !private ["So8NSObjectP", "showsFPS"]
+- !private ["So8NSObjectP", "showsNodeCount"]
+- ["So8NSObjectP", "supportedInterfaceOrientations"]
+- !private ["So8NSObjectP", "userInterfaceIdiom"]
+- !private ["So8NSObjectP", "view"]
+- ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", ""]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "scaleMode"]
+- !private ["So14NSSecureCodingP", "sceneWithSize"]
+- !private ["s9OptionSetP", "all"]
+- !private ["s9OptionSetP", "allButUpsideDown"]
+- !private ["SY", "=="]
+- !private ["SY", "RawValue"]
+- !private ["SY", ""]
+- !private ["SY", "all"]
+- !private ["SY", "allButUpsideDown"]
+- !private ["SY", "aspectFill"]
+- !private ["SY", "phone"]
+- ["So12SKEffectNodeC", ""]
+- !private ["So12SKEffectNodeC", "init"]
+- !private ["So12SKEffectNodeC", "scaleMode"]
+- !private ["So12SKEffectNodeC", "sceneWithSize"]
+- ["So6SKNodeC", ""]
+- !private ["So6SKNodeC", "init"]
+- !private ["So6SKNodeC", "scaleMode"]
+- !private ["So6SKNodeC", "sceneWithSize"]
+- !private ["So7SKSceneC", "init"]
+- !private ["So7SKSceneC", "scaleMode"]
+- !private ["So16SKSceneScaleModeV", "aspectFill"]
+- !private ["So6SKViewC", "ignoresSiblingOrder"]
+- !private ["So6SKViewC", "presentScene"]
+- !private ["So6SKViewC", "showsFPS"]
+- !private ["So6SKViewC", "showsNodeCount"]
+- !private ["So10SKWarpableP", ""]
+- !private ["So10SKWarpableP", "init"]
+- !private ["So10SKWarpableP", "scaleMode"]
+- !private ["So10SKWarpableP", "sceneWithSize"]
+- ["ST", ""]
+- !private ["s10SetAlgebraP", ""]
+- !private ["s10SetAlgebraP", "all"]
+- !private ["s10SetAlgebraP", "allButUpsideDown"]
+- ["s16TextOutputStreamP", ""]
+- ["s20TextOutputStreamableP", ""]
+- !private ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "ignoresSiblingOrder"]
+- !private ["So29UIAccessibilityIdentificationP", "presentScene"]
+- !private ["So29UIAccessibilityIdentificationP", "showsFPS"]
+- !private ["So29UIAccessibilityIdentificationP", "showsNodeCount"]
+- !private ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "ignoresSiblingOrder"]
+- !private ["So12UIAppearanceP", "presentScene"]
+- !private ["So12UIAppearanceP", "showsFPS"]
+- !private ["So12UIAppearanceP", "showsNodeCount"]
+- ["So21UIAppearanceContainerP", "Bool"]
+- !private ["So21UIAppearanceContainerP", "SKScene"]
+- !private ["So21UIAppearanceContainerP", "SKView"]
+- !private ["So21UIAppearanceContainerP", "UIDevice"]
+- ["So21UIAppearanceContainerP", "UIInterfaceOrientationMask"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "ignoresSiblingOrder"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "prefersStatusBarHidden"]
+- !private ["So21UIAppearanceContainerP", "presentScene"]
+- ["So21UIAppearanceContainerP", "shouldAutorotate"]
+- !private ["So21UIAppearanceContainerP", "showsFPS"]
+- !private ["So21UIAppearanceContainerP", "showsNodeCount"]
+- ["So21UIAppearanceContainerP", "supportedInterfaceOrientations"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", "Bool"]
+- !private ["So18UIContentContainerP", "SKScene"]
+- !private ["So18UIContentContainerP", "SKView"]
+- !private ["So18UIContentContainerP", "UIDevice"]
+- ["So18UIContentContainerP", "UIInterfaceOrientationMask"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "prefersStatusBarHidden"]
+- ["So18UIContentContainerP", "shouldAutorotate"]
+- ["So18UIContentContainerP", "supportedInterfaceOrientations"]
+- !private ["So18UIContentContainerP", "view"]
+- ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "ignoresSiblingOrder"]
+- !private ["So17UICoordinateSpaceP", "presentScene"]
+- !private ["So17UICoordinateSpaceP", "showsFPS"]
+- !private ["So17UICoordinateSpaceP", "showsNodeCount"]
+- !private ["So8UIDeviceC", "current"]
+- !private ["So8UIDeviceC", "userInterfaceIdiom"]
+- !private ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "ignoresSiblingOrder"]
+- !private ["So13UIDynamicItemP", "presentScene"]
+- !private ["So13UIDynamicItemP", "showsFPS"]
+- !private ["So13UIDynamicItemP", "showsNodeCount"]
+- ["So18UIFocusEnvironmentP", "Bool"]
+- !private ["So18UIFocusEnvironmentP", "SKScene"]
+- !private ["So18UIFocusEnvironmentP", "SKView"]
+- !private ["So18UIFocusEnvironmentP", "UIDevice"]
+- ["So18UIFocusEnvironmentP", "UIInterfaceOrientationMask"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "ignoresSiblingOrder"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "prefersStatusBarHidden"]
+- !private ["So18UIFocusEnvironmentP", "presentScene"]
+- !private ["So18UIFocusEnvironmentP", "scaleMode"]
+- !private ["So18UIFocusEnvironmentP", "sceneWithSize"]
+- ["So18UIFocusEnvironmentP", "shouldAutorotate"]
+- !private ["So18UIFocusEnvironmentP", "showsFPS"]
+- !private ["So18UIFocusEnvironmentP", "showsNodeCount"]
+- ["So18UIFocusEnvironmentP", "supportedInterfaceOrientations"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "ignoresSiblingOrder"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "presentScene"]
+- !private ["So11UIFocusItemP", "scaleMode"]
+- !private ["So11UIFocusItemP", "sceneWithSize"]
+- !private ["So11UIFocusItemP", "showsFPS"]
+- !private ["So11UIFocusItemP", "showsNodeCount"]
+- !private ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "ignoresSiblingOrder"]
+- !private ["So20UIFocusItemContainerP", "presentScene"]
+- !private ["So20UIFocusItemContainerP", "showsFPS"]
+- !private ["So20UIFocusItemContainerP", "showsNodeCount"]
+- !private ["So26UIInterfaceOrientationMaskV", "all"]
+- !private ["So26UIInterfaceOrientationMaskV", "allButUpsideDown"]
+- !private ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "ignoresSiblingOrder"]
+- !private ["So24UILargeContentViewerItemP", "presentScene"]
+- !private ["So24UILargeContentViewerItemP", "showsFPS"]
+- !private ["So24UILargeContentViewerItemP", "showsNodeCount"]
+- ["So30UIPasteConfigurationSupportingP", "Bool"]
+- !private ["So30UIPasteConfigurationSupportingP", "SKScene"]
+- !private ["So30UIPasteConfigurationSupportingP", "SKView"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIDevice"]
+- ["So30UIPasteConfigurationSupportingP", "UIInterfaceOrientationMask"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "ignoresSiblingOrder"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "node"]
+- !private ["So30UIPasteConfigurationSupportingP", "nodeWithFileNamed"]
+- ["So30UIPasteConfigurationSupportingP", "prefersStatusBarHidden"]
+- !private ["So30UIPasteConfigurationSupportingP", "presentScene"]
+- !private ["So30UIPasteConfigurationSupportingP", "scaleMode"]
+- !private ["So30UIPasteConfigurationSupportingP", "sceneWithSize"]
+- ["So30UIPasteConfigurationSupportingP", "shouldAutorotate"]
+- ["So30UIPasteConfigurationSupportingP", "shouldAutorotateToInterfaceOrientation"]
+- !private ["So30UIPasteConfigurationSupportingP", "showsFPS"]
+- !private ["So30UIPasteConfigurationSupportingP", "showsNodeCount"]
+- ["So30UIPasteConfigurationSupportingP", "supportedInterfaceOrientations"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "Bool"]
+- !private ["So11UIResponderC", "SKScene"]
+- !private ["So11UIResponderC", "SKView"]
+- !private ["So11UIResponderC", "UIDevice"]
+- ["So11UIResponderC", "UIInterfaceOrientationMask"]
+- ["So11UIResponderC", ""]
+- !private ["So11UIResponderC", "ignoresSiblingOrder"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "node"]
+- !private ["So11UIResponderC", "nodeWithFileNamed"]
+- ["So11UIResponderC", "prefersStatusBarHidden"]
+- !private ["So11UIResponderC", "presentScene"]
+- !private ["So11UIResponderC", "scaleMode"]
+- !private ["So11UIResponderC", "sceneWithSize"]
+- ["So11UIResponderC", "shouldAutorotate"]
+- ["So11UIResponderC", "shouldAutorotateToInterfaceOrientation"]
+- !private ["So11UIResponderC", "showsFPS"]
+- !private ["So11UIResponderC", "showsNodeCount"]
+- ["So11UIResponderC", "supportedInterfaceOrientations"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "Bool"]
+- !private ["So30UIResponderStandardEditActionsP", "SKScene"]
+- !private ["So30UIResponderStandardEditActionsP", "SKView"]
+- !private ["So30UIResponderStandardEditActionsP", "UIDevice"]
+- ["So30UIResponderStandardEditActionsP", "UIInterfaceOrientationMask"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "ignoresSiblingOrder"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "node"]
+- !private ["So30UIResponderStandardEditActionsP", "nodeWithFileNamed"]
+- ["So30UIResponderStandardEditActionsP", "prefersStatusBarHidden"]
+- !private ["So30UIResponderStandardEditActionsP", "presentScene"]
+- !private ["So30UIResponderStandardEditActionsP", "scaleMode"]
+- !private ["So30UIResponderStandardEditActionsP", "sceneWithSize"]
+- ["So30UIResponderStandardEditActionsP", "shouldAutorotate"]
+- ["So30UIResponderStandardEditActionsP", "shouldAutorotateToInterfaceOrientation"]
+- !private ["So30UIResponderStandardEditActionsP", "showsFPS"]
+- !private ["So30UIResponderStandardEditActionsP", "showsNodeCount"]
+- ["So30UIResponderStandardEditActionsP", "supportedInterfaceOrientations"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So16UIStateRestoringP", "Bool"]
+- !private ["So16UIStateRestoringP", "SKScene"]
+- !private ["So16UIStateRestoringP", "SKView"]
+- !private ["So16UIStateRestoringP", "UIDevice"]
+- ["So16UIStateRestoringP", "UIInterfaceOrientationMask"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "prefersStatusBarHidden"]
+- ["So16UIStateRestoringP", "shouldAutorotate"]
+- ["So16UIStateRestoringP", "supportedInterfaceOrientations"]
+- !private ["So16UIStateRestoringP", "view"]
+- ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", "Bool"]
+- !private ["So18UITraitEnvironmentP", "SKScene"]
+- !private ["So18UITraitEnvironmentP", "SKView"]
+- !private ["So18UITraitEnvironmentP", "UIDevice"]
+- ["So18UITraitEnvironmentP", "UIInterfaceOrientationMask"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "ignoresSiblingOrder"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "prefersStatusBarHidden"]
+- !private ["So18UITraitEnvironmentP", "presentScene"]
+- ["So18UITraitEnvironmentP", "shouldAutorotate"]
+- !private ["So18UITraitEnvironmentP", "showsFPS"]
+- !private ["So18UITraitEnvironmentP", "showsNodeCount"]
+- ["So18UITraitEnvironmentP", "supportedInterfaceOrientations"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "Bool"]
+- !private ["So23UIUserActivityRestoringP", "SKScene"]
+- !private ["So23UIUserActivityRestoringP", "SKView"]
+- !private ["So23UIUserActivityRestoringP", "UIDevice"]
+- ["So23UIUserActivityRestoringP", "UIInterfaceOrientationMask"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "ignoresSiblingOrder"]
+- ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "node"]
+- !private ["So23UIUserActivityRestoringP", "nodeWithFileNamed"]
+- ["So23UIUserActivityRestoringP", "prefersStatusBarHidden"]
+- !private ["So23UIUserActivityRestoringP", "presentScene"]
+- !private ["So23UIUserActivityRestoringP", "scaleMode"]
+- !private ["So23UIUserActivityRestoringP", "sceneWithSize"]
+- ["So23UIUserActivityRestoringP", "shouldAutorotate"]
+- ["So23UIUserActivityRestoringP", "shouldAutorotateToInterfaceOrientation"]
+- !private ["So23UIUserActivityRestoringP", "showsFPS"]
+- !private ["So23UIUserActivityRestoringP", "showsNodeCount"]
+- ["So23UIUserActivityRestoringP", "supportedInterfaceOrientations"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So20UIUserInterfaceIdiomV", "=="]
+- !private ["So20UIUserInterfaceIdiomV", "RawValue"]
+- !private ["So20UIUserInterfaceIdiomV", "phone"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "ignoresSiblingOrder"]
+- !private ["So6UIViewC", "presentScene"]
+- !private ["So6UIViewC", "showsFPS"]
+- !private ["So6UIViewC", "showsNodeCount"]
+- ["So16UIViewControllerC", "Bool"]
+- !private ["So16UIViewControllerC", "SKScene"]
+- !private ["So16UIViewControllerC", "SKView"]
+- !private ["So16UIViewControllerC", "UIDevice"]
+- ["So16UIViewControllerC", "UIInterfaceOrientationMask"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "prefersStatusBarHidden"]
+- ["So16UIViewControllerC", "shouldAutorotate"]
+- ["So16UIViewControllerC", "supportedInterfaceOrientations"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SKScene"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIDevice"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ignoresSiblingOrder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "presentScene"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scaleMode"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showsFPS"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showsNodeCount"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userInterfaceIdiom"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "SKScene"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIDevice"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "current"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ignoresSiblingOrder"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "presentScene"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "scaleMode"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "showsFPS"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "showsNodeCount"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "userInterfaceIdiom"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "view"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "ignoresSiblingOrder"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "presentScene"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "showsFPS"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "showsNodeCount"]
+depends-nominal:
+- "SK"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s32ExpressibleByStringInterpolationP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So19GKSceneRootNodeTypeP"
+- "14FruitCollector18GameViewControllerC"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "s9OptionSetP"
+- !private "SY"
+- "So12SKEffectNodeC"
+- "So6SKNodeC"
+- !private "So7SKSceneC"
+- !private "So16SKSceneScaleModeV"
+- !private "So6SKViewC"
+- !private "So10SKWarpableP"
+- "ST"
+- !private "s10SetAlgebraP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So8UIDeviceC"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So26UIInterfaceOrientationMaskV"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So20UIUserInterfaceIdiomV"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ModelIO.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/GLKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SceneKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SpriteKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/GameplayKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/GLKit.framework/Headers/GLKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/SceneKit.framework/Headers/SceneKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/SpriteKit.framework/Headers/SpriteKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/GameplayKit.framework/Headers/GameplayKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "4cbb5a21dfe12027cf513abb920d6058"
